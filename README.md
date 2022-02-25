@@ -5,25 +5,24 @@ Practicas de analisis y requerimientos de la creacion y diseño de un proyecto w
 ## Requerimientos  🚀
 
 Requerimientos del sistemas web 📋
-Documento PDF (http://www)
-
+* Documento PDF (https://github.com/Ingrzs/uiux/blob/main/Requerimientos.pdf) 
 ## Definiendo cliente ideal objetivo
 Definir quien es tu cliente ideal/objetivo 📋
-Documento PDF
+* Documento pDF (https://github.com/Ingrzs/uiux/blob/main/buyer%20persona.pdf)
 
 ## Definiendo publico objetivo
 Definir quien es publico objetivo 📋
-Documento PDF
+* Documento PDF (https://github.com/Ingrzs/uiux/blob/main/publico%20objetivo.pdf)
 El documento se realizo en [MIRO]
 
 ## Diseñando el diagrama de informacion UX
 Definir quien es publico objetivo 📋
-Documento PDF
+* Documento PDF (https://github.com/Ingrzs/uiux/blob/main/Diagrama%20flujo%20UX.pdf)
 El documento se realizo en [MIRO]
 
 ## Diseñando el UI
 Definir quien es publico objetivo 📋
-Documento PDF
+* Documento PDF (https://github.com/Ingrzs/uiux/blob/main/UI.pdf)
 El documento se realizo en [FIGMA]
 
 
